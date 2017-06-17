@@ -1,0 +1,18 @@
+@font-face{ 
+	font-family: 'chunkfive';
+	src: url('../fonts/chunkfive/chunkfive.eot');
+	src: url('../fonts/chunkfive/chunkfive.eot?iefix') format('eot'),
+	     url('../fonts/chunkfive/chunkfive.woff') format('woff'),
+	     url('../fonts/chunkfive/chunkfive.ttf') format('truetype'),
+	     url('../fonts/chunkfive/chunkfive.svg#webfont') format('svg');
+	     font-style: normal;
+}
+@font-face{ 
+	font-family: 'latolight';
+	src: url('../fonts/latolight/latolight.eot');
+	src: url('../fonts/latolight/latolight.eot?iefix') format('eot'),
+	     url('../fonts/latolight/latolight.woff') format('woff'),
+	     url('../fonts/latolight/latolight.ttf') format('truetype'),
+	     url('../fonts/latolight/latolight.svg#webfont') format('svg');
+	     /*font-style: normal;*/
+}
